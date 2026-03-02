@@ -1,5 +1,15 @@
 # Kanban Project Manager
 
+## Run the app
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open http://localhost:3000
+
 ## Instructions
 
 This is a skeleton project to be the basis for your Kanban project for Week 1 of the Complete AI Coder Course. See the course resources for more.
